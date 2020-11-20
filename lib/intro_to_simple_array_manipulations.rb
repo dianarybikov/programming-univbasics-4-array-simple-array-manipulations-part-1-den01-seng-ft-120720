@@ -12,8 +12,8 @@ def using_pop(array)
 end  
 
 def pop_with_args(array)
-  # array = ["Africa", "Asia", "Antarctica"]
-  array.pop["Asia", "Antarctica"]
+  array = ["Africa", "Asia", "Antarctica"]
+  array.pop[2]
 end
   
   
