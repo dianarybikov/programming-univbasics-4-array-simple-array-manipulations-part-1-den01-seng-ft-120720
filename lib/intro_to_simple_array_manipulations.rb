@@ -10,3 +10,8 @@ def using_pop(array)
   # array = ["Africa", "Asia", "Antarctica"]
   array.pop
 end  
+
+def pop_with_args(array)
+  
+  
+  
